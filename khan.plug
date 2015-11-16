@@ -1,0 +1,9 @@
+[Python]
+Version=2+
+
+[Core]
+Name = Khan
+Module = khan
+
+[Documentation]
+Description = Launches Khan gif whenever Khan is typed.
